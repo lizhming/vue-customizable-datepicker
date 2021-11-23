@@ -1,0 +1,32 @@
+{
+  "name": "vue-customizable-datepicker",
+  "version": "0.1.3",
+  "description": "Vue Customizable Datepicker",
+  "license": "MIT",
+  "author": "Dario Ferderber <dario.ferderber@broj42.com>",
+  "keywords": [
+    "vue datepicker",
+    "vue daterange picker",
+    "vue customizable datepicker",
+    "vue custom datepicker"
+  ],
+  "main": "src/DatePicker.vue",
+  "bugs": {
+    "url": "https://gitlab.com/broj42/vue-customizable-datepicker/-/issues"
+  },
+  "homepage": "https://gitlab.com/broj42/vue-customizable-datepicker",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "src"
+  ],
+  "eslintIgnore": [
+    "*"
+  ],
+  "dependencies": {
+    "v-click-outside": "^2.0.2",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1"
+  }
+}
